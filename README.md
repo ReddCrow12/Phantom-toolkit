@@ -19,7 +19,20 @@ Phantom is an advanced, Python-based ethical hacking tool designed for network s
 2. **Navigate to the project directory:**
    ```cmd
    cd Phantom
-3.
+#### Usage and Features:
 
+| Command | Description|
+|---------------|---------------|
+| 'help' | Displays help information about all available commands and their usage.|
+| 'connect' | Connects to a specified port and IP address using SSH or Telnet protocols. |
+| 'scantom' | Scans the network to identify active devices and open ports. |
+| 'connlist' | Lists all active connections to the device. |
+|'disconnect' | Disconnects a specified IP and port. |
 
-### This tool works on any OS system!
+1. **To run Phantom, execute the following command in your terminal:**
+   ```cmd
+   python phantom
+Phantom offers a variety of commands to leverage its full potential. Here are some key commands and their functionalities:
+2. **Display Help Information:**
+   ```cmd
+   Phantom>: help
