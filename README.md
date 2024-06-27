@@ -73,4 +73,7 @@ Disconnect a specified IP and port from your system.
 ![image](https://github.com/ReddCrow12/Phantom-toolkit/assets/173953884/e913e35a-9675-4024-9518-689f5d10bb22)
 
 
-# created by ReddCrow! ;)
+# Credits:
+Special thanks to **Reddcrow** for building and assembling the Phantom tool. Your expertise and dedication have made this project possible.
+## Contribution:
+We welcome contributions to Phantom! If you have suggestions, improvements, or bug fixes, please submit a pull request.
