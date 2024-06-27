@@ -29,10 +29,11 @@ Phantom is an advanced, Python-based ethical hacking tool designed for network s
 | 'connlist' | Lists all active connections to the device. |
 |'disconnect' | Disconnects a specified IP and port. |
 
+
 1. **To run Phantom, execute the following command in your terminal:**
    ```cmd
    python phantom
 Phantom offers a variety of commands to leverage its full potential. Here are some key commands and their functionalities:
 2. **Display Help Information:**
-   ```cmd
+   ```code
    Phantom>: help
