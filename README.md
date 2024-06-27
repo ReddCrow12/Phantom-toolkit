@@ -15,4 +15,4 @@ Phantom is an advanced, Python-based ethical hacking tool designed for network s
 #### Installation:
 1. **Clone the repository from GitHub:**
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/ReddCrow12/Phantom-toolkit.git
